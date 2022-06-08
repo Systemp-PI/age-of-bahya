@@ -131,7 +131,7 @@ INSERT INTO personagens VALUES
 (NULL, "Maiskra", "28", "F", "Arqueiro", "A Felina", 550, 3, 3, 4),
 (NULL, "Batoré", "24", "M", "Cavaleiro", "O Barbáro", 600, 1, 7, 3),
 (NULL, "Alexomon", "34", "M", "Curandeiro", "O Médico", 450, 4, 3, 6);
-      
+
 CREATE TABLE clas (
 id_cla INT PRIMARY KEY AUTO_INCREMENT,
 nome VARCHAR(45),
