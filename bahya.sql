@@ -141,12 +141,12 @@ FOREIGN KEY (fk_raca) REFERENCES racas(id_raca)
 );
 
 INSERT INTO personagens VALUES 
-(NULL, "Mori", "130", "M", "Assassino", "O Arauto de Nogueirovski", 5000, 2, 10, 5),
-(NULL, "Hariken", "21", "M", "Paladino", "O Demônio de 12 asas", 700, 5, 9, 5),
-(NULL, "Beyonder", "30", "M", "Guerreiro", "A Praga dos 7 Reinos ", 800, 6, 5, 7),
-(NULL, "Norleton", "20", "M", "Mago", "O Feitiçeiro", 500, 7, 4, 2),
-(NULL, "Nogueirovski", "800", "M", "Necromante", "O Demônio Maldito", 6000, 2, 1, 5),
-(NULL, "Padron", "26", "M", "Clérigo", "O Padre", 400, 9, 8, 1),
-(NULL, "Maiskra", "28", "F", "Arqueiro", "A Felina", 550, 3, 3, 4),
-(NULL, "Batoré", "24", "M", "Cavaleiro", "O Barbáro", 600, 1, 7, 3),
-(NULL, "Alexomon", "34", "M", "Curandeiro", "O Médico", 450, 4, 3, 6);
+(null, "Mori", "130", "M", "Assassino", "O Arauto de Nogueirovski", 5000, 2, 10, 5),
+(null, "Hariken", "21", "M", "Paladino", "O Demônio de 12 asas", 700, 5, 9, 5),
+(null, "Beyonder", "30", "M", "Guerreiro", "A Praga dos 7 Reinos ", 800, 6, 5, 7),
+(null, "Norleton", "20", "M", "Mago", "O Feitiçeiro", 500, 7, 4, 2),
+(null, "Nogueirovski", "800", "M", "Necromante", "O Demônio Maldito", 6000, 2, 1, 5),
+(null, "Padron", "26", "M", "Clérigo", "O Padre", 400, 9, 8, 1),
+(null, "Maiskra", "28", "F", "Arqueiro", "A Felina", 550, 3, 3, 4),
+(null, "Batoré", "24", "M", "Cavaleiro", "O Barbáro", 600, 1, 7, 3),
+(null, "Alexomon", "34", "M", "Curandeiro", "O Médico", 450, 4, 3, 6);
